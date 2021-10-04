@@ -6,7 +6,7 @@ To make a bug report, please log into github.com
 
 You can use the GoAirheads shared staff account stored on the computers, but **make sure to put your name in the issue or bug report**.
 
-You can **only create _new_ issues** using the GoAirheads-staff account. Your name should be added like this: `Reporter: Ethan`
+You can **only create _new_ issues** using the GoAirheads-staff account. Your name should be added like this to the bug report: `Reporter: Ethan`
 
 ## Bug and Error Reports
 
