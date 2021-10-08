@@ -2,12 +2,15 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: Enhancement
+labels: Enhancement, Needs Review
 assignees: ''
 
 ---
 
-**Have you made a discussion first?**
+- [x] This is a Checked box
+- [ ] Not Checked
+
+**Have you made a discussion first? (Either check or delete this section to agree)**
 - [ ] This has already been discussed with GoAirheads
 
 **Is your feature request related to a problem? Please describe.**

@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Report issues or bugs found in our software
-title: Bug Summary Title
-labels: Bug
+title: ''
+labels: Bug, Needs Review
 assignees: ''
 
 ---
@@ -28,6 +28,9 @@ If applicable, add screenshots to help explain your problem.
  - Version (if known) [e.g. 1.2.5]: 
 
 Check the boxes that apply:
+
+- [x] This is a checked box
+- [ ] Not Checked
 
 Device:
 - [ ] Downloaded on Computer (Shop computer)
